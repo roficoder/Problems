@@ -1,7 +1,8 @@
 
 const array = [
     {name: 'Heap Out of Memory', description: 'Used to increase memory of node when it throws an error of heap out of memory', link: 'https://gist.github.com/roficoder/44a62115e9fd9714266dad6bc9ed66c5'},
-    {name:'Efaad Loader', description:'Loader of Efaad Application which is shown when http request is made', link:'https://gist.github.com/roficoder/167b7b98ad04492d7824ef9ce4873faf'}
+    {name:'Efaad Loader', description:'Loader of Efaad Application which is shown when http request is made', link:'https://gist.github.com/roficoder/167b7b98ad04492d7824ef9ce4873faf'},
+    {name:'Patching Form Value', description:'After fetching data from the api if we want to popup in profile page this can be used', link:'https://gist.github.com/roficoder/fb35c79adb02b13c77c7ba20a92f2906'}
   ];
 
 
